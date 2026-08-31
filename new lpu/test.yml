@@ -1,0 +1,3 @@
+name: My name is {{name}}
+name: My gender is {{gender}}
+age: My age is {{ageNumber}}
